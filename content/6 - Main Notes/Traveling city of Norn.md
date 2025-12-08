@@ -6,7 +6,7 @@ Tags: [[Bloodstones (Doelwitten)]]
 
 # Traveling city of Norn
 
-
+🚧🏗️ Aan deze pagina wordt momenteel nog hard gewerkt 👷‍♂️🚧
 
 
 

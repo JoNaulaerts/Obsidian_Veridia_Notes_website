@@ -8,7 +8,7 @@ Tags: [[NPC]]  [[Kritar Kargank]]
 
 mini Shetlandpony
 
-hij is levensmoe en heeft een hekel aan de naam Pixydust, die [[Kritar Kargank]] voor hem verzon
+hij is levensmoe en heeft een hekel aan de naam Pixydust, die [[Kritar Kargank]] voor hem bedacht
 
 
 

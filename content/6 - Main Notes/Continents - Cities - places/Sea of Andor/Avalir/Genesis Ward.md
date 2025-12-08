@@ -6,7 +6,6 @@ Tags: [[Avalir]]
 
 # Genesis Ward
 
-
 Plaats waar we [[Sir Kaelor Varn]] vonden.
 
 

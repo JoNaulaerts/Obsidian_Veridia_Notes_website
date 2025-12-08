@@ -6,7 +6,7 @@ Tags: [[Sea of Andor]] [[Bloodstones (Doelwitten)]]
 
 # Island of Nami
 
-
+🚧🏗️ Aan deze pagina wordt momenteel nog hard gewerkt 👷‍♂️🚧
 
 
 

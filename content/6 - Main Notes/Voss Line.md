@@ -6,7 +6,7 @@ Tags: [[Edric Voss]] [[Ximitrion]] [[The Seadweller]]
 
 # Voss Line
 
-
+🚧🏗️ Aan deze pagina wordt momenteel nog hard gewerkt 👷‍♂️🚧
 
 
 

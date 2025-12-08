@@ -6,7 +6,7 @@ Tags: [[NPC]] [[The kingdom of Verix]]
 
 # King Orlo
 
-
+🚧🏗️ Aan deze pagina wordt momenteel nog hard gewerkt 👷‍♂️🚧
 
 
 

@@ -6,7 +6,7 @@ Tags: [[Avalir]]
 
 # Core well
 
-
+🚧🏗️ Aan deze pagina wordt momenteel nog hard gewerkt 👷‍♂️🚧
 
 
 

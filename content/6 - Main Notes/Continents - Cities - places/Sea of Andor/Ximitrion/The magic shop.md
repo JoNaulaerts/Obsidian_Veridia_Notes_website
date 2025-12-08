@@ -6,8 +6,6 @@ Tags: [[Ximitrion]]
 
 # The magic shop
 
-
-
-
+🚧🏗️ Aan deze pagina wordt momenteel nog hard gewerkt 👷‍♂️🚧
 
 ## References

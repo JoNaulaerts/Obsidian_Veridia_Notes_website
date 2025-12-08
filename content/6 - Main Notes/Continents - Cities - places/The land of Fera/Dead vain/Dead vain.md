@@ -7,7 +7,7 @@ Tags: [[The land of Fera]] [[Deano]]
 # Dead vain
 
 Verlaten spookstad
-[[Deano]] woonde hier eerst voor de ramp. Hij was de enige overlevende.
+[[Deano]] woonde hier voor de ramp. Hij was de enige overlevende.
 
 Vroeger een mijnwerkersstad.
 

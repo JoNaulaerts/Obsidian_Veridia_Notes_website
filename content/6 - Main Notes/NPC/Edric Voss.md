@@ -4,7 +4,6 @@ Status:
 
 Tags: [[NPC]] [[Ximitrion]] [[The Blood Veil]] [[Henry Voss]]
 
-
 # Edric Voss
 
 Jarl van [[Ximitrion]], kleinzoon van [[Henry Voss]]

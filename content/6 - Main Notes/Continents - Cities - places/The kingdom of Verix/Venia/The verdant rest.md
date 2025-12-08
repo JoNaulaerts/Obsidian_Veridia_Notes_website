@@ -13,6 +13,6 @@ sterk bewaakt
 
 [[De Charel]] heeft er zijn bankje
 
-Er is een Bakker en een bloemenwinkel. Tussen deze twee gebouwen is een dichte haag. Achter deze haag bevindt [[The green heart]] zicht
+Er is een Bakker en een bloemenwinkel. Tussen deze twee gebouwen is een dichte haag. Achter deze haag bevindt zich [[The green heart]]
 
 ## References

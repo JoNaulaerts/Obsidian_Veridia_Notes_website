@@ -6,8 +6,7 @@ Tags: [[Avalir]]
 
 # Obsidian assembly
 
-
-
+🚧🏗️ Aan deze pagina wordt momenteel nog hard gewerkt 👷‍♂️🚧
 
 
 ## References

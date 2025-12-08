@@ -6,7 +6,7 @@ Tags: [[Onopgeloste vragen]]
 
 # The roaming captain
 
-is het [[Kritar Kargank]]??
+is  [[Kritar Kargank]] the roaming captain??
 
 
 

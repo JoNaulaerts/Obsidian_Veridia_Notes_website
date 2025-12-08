@@ -8,7 +8,7 @@ Tags: [[Venia]]
 
 
 Onder dit district bevinden zich een heel gangenstelsel aan catacomben en riolen.
-Dit gangenstelsel wordt ook wel gebruikt om [[King Orlo]] of andere nobelen te verplaatsen. Dit doet men voor de veligheid.
+Dit gangenstelsel wordt ook wel gebruikt om [[King Orlo]] en andere nobelen te verplaatsen. Dit doet men uit veiligheidsoverwegingen.
 
 
 ## References

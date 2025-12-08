@@ -6,8 +6,7 @@ Tags: [[NPC]] [[Venia]] [[Shantytown]]
 
 # Kafton Bouldersight
 
-
-
+🚧🏗️ Aan deze pagina wordt momenteel nog hard gewerkt 👷‍♂️🚧
 
 
 ## References

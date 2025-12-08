@@ -6,7 +6,6 @@ Tags: [[The kingdom of Verix]]
 
 # Vailora
 
-
 [[The library of time]]
 
 [[Radim Stith (Midar The Collector) ✝]]

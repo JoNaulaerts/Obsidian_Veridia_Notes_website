@@ -6,8 +6,6 @@ Tags: [[The land of Fera]] [[The mythical forest of Ghorna]] [[Bloodstones (Doel
 
 # Verborgen geheim diep in het bos
 
-
-
-
+🚧🏗️ Aan deze pagina wordt momenteel nog hard gewerkt 👷‍♂️🚧
 
 ## References

@@ -8,9 +8,9 @@ Tags: [[Mountains of Xira]]
 
 vlag: scherpe bergen met vulkaan
 
-The Kingdom of Mordai is een braakland met extreem terrein, geisers, aardbevingen en de permanente geur van zwavel. Verborgen valleien grotten zijn er geen uitzondering  
+The Kingdom of Mordai is een braakland met extreem terrein, geisers, aardbevingen en de permanente geur van zwavel. Verborgen valleien grotten zijn er geen uitzondering.
 
-Het is het land van tales of forgotten lands and hero's. 
+Het is het land van "tales of forgotten lands and hero's". 
 
 Het land van onbekende rijkdommen en grote gevaren. 
 
