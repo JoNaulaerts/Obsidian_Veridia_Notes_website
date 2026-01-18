@@ -13,18 +13,13 @@ Tags:
 	2) convince [[🚧 The roaming captain]]
 	3) reach [[🚧 The Dead mount of the Gods]]
 	4) Let your father (van [[Aernu Raemas]] en [[Aerar Raemas]] ???) guide you
-	5) Let teh light touch your soul
+	5) Let the light touch your soul
 
 3) Wie is [[🚧 The roaming captain]]?
 	1) Is het [[Kritar Kargank]]???
 
 4) Wat is [[🚧 The Dead mount of the Gods]]?
-5) Wie of wat is [[Malachai]]?
-	1) Heeft iets te maken met [[Vinguri]], [[Astaroth (The void shadow fiend)]]
-6) Wat is de vloek van [[The Delaney Family]]
-7) Waar is [[Aeon Gelidon]]?
-8) is [[Enigma]] [[Luminastra (The astral mind)]]? of een champion van haar?
-
-
+5) Wat is de vloek van [[The Delaney Family]]
+6) Waar is [[Aeon Gelidon]]?
 
 ## References
