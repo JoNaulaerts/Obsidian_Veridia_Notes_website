@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Welcome to Veridia -- Notities van DenDjo",
+    pageTitle: "🌎 Veridia Wiki 🧝",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,

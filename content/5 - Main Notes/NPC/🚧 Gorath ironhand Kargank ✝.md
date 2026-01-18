@@ -1,0 +1,13 @@
+2026-01-18 14:07
+
+Status:
+
+Tags: [[NPC]] [[Kritar Kargank]] [[The great intrusion]] [[Kas-Nak]]
+
+# Gorath ironhand Kargank
+
+
+Vader van [[Kritar Kargank]]
+
+
+## References
