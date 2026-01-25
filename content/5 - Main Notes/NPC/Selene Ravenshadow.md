@@ -9,8 +9,3 @@ Tags: [[NPC]] [[🚧 Red Cloaks]] [[🚧 Kingsguards]]
 Aanvoerder van de [[🚧 Kingsguards]] en strategisch adviseur van [[King Orlo II]]
 
 Heeft een dagger met 3 gems (Varic dagger)
-
-
-
-
-## References

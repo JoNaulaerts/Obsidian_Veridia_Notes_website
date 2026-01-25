@@ -14,6 +14,3 @@ godin van:
 - Leven
 - Natuur
 - Woud
-
-
-## References

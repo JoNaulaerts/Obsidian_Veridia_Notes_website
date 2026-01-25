@@ -18,6 +18,3 @@ Werd verbannen in de aarde door de [[Champions of the Radiant Soul]]
 - Rechter voet: [[Batu Darah]]
 - Linker voet:
 - Hoofd:
-
-
-## References

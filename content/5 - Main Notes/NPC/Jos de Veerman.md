@@ -2,12 +2,8 @@
 
 Status:
 
-Tags: [[NPC]] [[Lark]] 
+Tags: [[NPC]] [[🚧 Lark]] 
 
 # Jos de Veerman
 
-Veerman op het meer tussen [[Lark]] en [[The castle of Lark]].
-
-
-
-## References
+Veerman op het meer tussen [[🚧 Lark]] en [[🚧 The castle of Lark]].

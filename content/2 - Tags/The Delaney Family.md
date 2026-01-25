@@ -18,5 +18,3 @@ gekende leden:
 
 De familie draagt al jaren een vloek mee
 
-
-## References

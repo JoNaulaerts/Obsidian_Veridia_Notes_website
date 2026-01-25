@@ -2,17 +2,12 @@
 
 Status:
 
-Tags: [[Venia]] [[The Emerald Bazard]] [[🚧 Ravenwood family]] [[Enigma]] [[Borin Ravenwood]]
+Tags: [[🚧 Venia]] [[🚧 The Emerald Bazard]] [[🚧 Ravenwood family]] [[Enigma]] [[Borin Ravenwood]]
 
 # Ravenwood Arcane Emporium
 
-Magic shop in [[The Emerald Bazard]]
+Magic shop in [[🚧 The Emerald Bazard]]
 
 Banden met [[Enigma]], leden van de beweging krijgen er korting en toegang tot speciale items.
 
 Shopkeep: [[Borin Ravenwood]], hij maakte drie clones van zichzelf: Borin, Borin en Borin
-
-
-
-
-## References

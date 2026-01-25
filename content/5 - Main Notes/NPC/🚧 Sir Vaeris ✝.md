@@ -2,12 +2,8 @@
 
 Status:
 
-Tags: [[NPC]] [[The great intrusion]] [[Avalir]] [[Sir Kaelor Varn]]
+Tags: [[NPC]] [[The great intrusion]] [[Avalir]] [[🚧 Sir Kaelor Varn]]
 
 # Sir Vaeris
 
-Leermeester van [[Sir Kaelor Varn]]
-
-
-
-## References
+Leermeester van [[🚧 Sir Kaelor Varn]]

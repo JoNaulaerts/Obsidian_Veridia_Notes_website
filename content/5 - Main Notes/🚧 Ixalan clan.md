@@ -14,7 +14,3 @@ Ze bouwden er een groots, welvarend rijk op
 
 op een nacht werd de hele clan uitgemoord, op enkele overlevenden na. 
 De weinige overlevenden gingen zwerven, werden piraten en handelaars
-
-
-
-## References

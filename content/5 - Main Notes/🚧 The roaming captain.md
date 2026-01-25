@@ -6,8 +6,4 @@ Tags: [[❓ Onopgeloste vragen]]
 
 # The roaming captain
 
-is  [[Kritar Kargank]] the roaming captain??
-
-
-
-## References
+❓is  [[Kritar Kargank]] the roaming captain??

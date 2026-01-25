@@ -7,7 +7,3 @@ Tags: [[Kritar Kargank]] [[Kas-Nak]]
 # The Smith of wonders
 
 🚧🏗️ Aan deze pagina wordt momenteel nog hard gewerkt 👷‍♂️🚧
-
-
-
-## References

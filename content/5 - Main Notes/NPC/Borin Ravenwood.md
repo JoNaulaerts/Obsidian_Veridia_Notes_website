@@ -6,8 +6,4 @@ Tags: [[NPC]] [[🚧 Ravenwood family]] [[Ravenwood Arcane Emporium]]
 
 # Borin Ravenwood
 
-Shopkeep van [[Ravenwood Arcane Emporium]] in [[Venia]], hij maakte drie clones van zichzelf: Borin, Borin en Borin
-
-
-
-## References
+Shopkeep van [[Ravenwood Arcane Emporium]] in [[🚧 Venia]], hij maakte drie clones van zichzelf: Borin, Borin en Borin

@@ -2,12 +2,8 @@
 
 Status:
 
-Tags: [[Betrayer gods]] [[Pantheon]] [[Aerar Raemas]]
+Tags: [[Betrayer gods]] [[Pantheon]] [[🚧 Aerar Raemas]]
 
 # Astaroth (The void shadow fiend)
 
 Wil [[🚧 Veridia]] ten val brengen.
-
-
-
-## References

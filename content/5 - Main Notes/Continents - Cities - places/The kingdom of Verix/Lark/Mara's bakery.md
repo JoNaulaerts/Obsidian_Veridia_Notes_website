@@ -2,12 +2,8 @@
 
 Status:
 
-Tags: [[Lark]] [[The castle of Lark]]
+Tags: [[🚧 Lark]] [[🚧 The castle of Lark]]
 
 # Mara's bakery
 
-huisbakkerij van [[The castle of Lark]]
-
-
-
-## References
+huisbakkerij van [[🚧 The castle of Lark]]

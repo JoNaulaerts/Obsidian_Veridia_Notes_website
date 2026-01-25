@@ -2,16 +2,10 @@
 
 Status:
 
-Tags: [[NPC]] [[Aernu Raemas]]
+Tags: [[NPC]] [[🚧 Aernu Raemas]]
 
 # Charles
 
 Tressym
 
-Trouwe kompaan van [[Aernu Raemas]]
-
-
-
-
-
-## References
+Trouwe kompaan van [[🚧 Aernu Raemas]]

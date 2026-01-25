@@ -2,14 +2,10 @@
 
 Status:
 
-Tags: [[Sir Kaelor Varn]] 
+Tags: [[🚧 Sir Kaelor Varn]] 
 
 # Avalir
 
 Voormalig vliegend eiland, dat nu onder de grond bedolven ligt onder [[Malaouk]] in [[Sea of Andor]].
 
 Stortte neer tijdens [[The great intrusion]].
-
-
-
-## References

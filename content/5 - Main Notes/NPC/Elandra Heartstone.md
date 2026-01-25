@@ -9,8 +9,4 @@ Tags: [[The rusty tankard (inn)]]  [[NPC]] [[Brom (Bernard Delaney)]]
 Inkeeper van [[The rusty tankard (inn)]]
 
 kinderen:
-[[Elias en Elise]]
-
-
-
-## References
+[[Elias en Elise Heartstone]]

@@ -2,12 +2,8 @@
 
 Status:
 
-Tags: [[Venia]] [[🚧 The house of Verix]]
+Tags: [[🚧 Venia]] [[🚧 The house of Verix]]
 
 # Ivory citadel
 
-palace of the house of Verix
-
-
-
-## References
+Palace of the house of Verix

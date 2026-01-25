@@ -2,11 +2,11 @@
 
 Status:
 
-Tags: [[The Blood Veil]]
+Tags: [[🚧 The Blood Veil]]
 
 # Rosha
 
-Adjucicator of [[The Blood Veil]].
+Adjucicator of [[🚧 The Blood Veil]].
 
 
 Bloedrood haar, bleke huid, tattoos, platinum bracers en een bronzen masker dat het hele gezicht bedekt.
@@ -22,6 +22,3 @@ Momenteel zijn er 3 Roshas:
 - 1 met volledig masker
 - 1 met masker aan linker kant gezicht
 - 1 met masker aan rechter kant gezicht
-
-
-## References

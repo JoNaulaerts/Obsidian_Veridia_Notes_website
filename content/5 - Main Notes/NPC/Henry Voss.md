@@ -9,5 +9,3 @@ Tags:[[NPC]] [[Ximitrion]] [[Edric Voss]]
 Grootvader van [[Edric Voss]]
 
 beruchte piraat
-
-## References

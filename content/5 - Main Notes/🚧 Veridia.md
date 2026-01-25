@@ -2,12 +2,11 @@
 
 Status:
 
-Tags: 
+---
+tags:
+  - #Veridia 
+---
 
 # Veridia
 
 🚧🏗️ Aan deze pagina wordt momenteel nog hard gewerkt 👷‍♂️🚧
-
-
-
-## References

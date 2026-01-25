@@ -11,7 +11,3 @@ Mythical engin powered by [[🚧 Arkenite core]]
 Constructs, golems, helpen
 celestial machinery
 relics
-
-
-
-## References

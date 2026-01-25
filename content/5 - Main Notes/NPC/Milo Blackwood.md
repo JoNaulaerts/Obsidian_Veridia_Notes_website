@@ -7,8 +7,3 @@ Tags: [[The brawling bear (inn)]]  [[NPC]]
 # Milo Blackwood
 
 Innkeeper van [[The brawling bear (inn)]]
-
-
-
-
-## References

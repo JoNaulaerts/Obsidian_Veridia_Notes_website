@@ -6,8 +6,4 @@ Tags: [[NPC]] [[The great intrusion]] [[Batu Darah]]
 
 # Shen-Zhao
 
-
 Panda monk leermeester van [[Mr. Kirate kad ✝]] en grote voorbeeld van [[Miyagi Do]]
-
-
-## References

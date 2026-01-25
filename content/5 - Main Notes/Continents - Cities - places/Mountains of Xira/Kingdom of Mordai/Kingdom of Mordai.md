@@ -15,7 +15,4 @@ Het is het land van "tales of forgotten lands and hero's".
 Het land van onbekende rijkdommen en grote gevaren. 
 
 
-????? Hebben de [[Vinguri]] er hun uitvalsbasis ?????? 
-
-
-## References
+De [[Vinguri]] hebben hier hun uitvalsbasis

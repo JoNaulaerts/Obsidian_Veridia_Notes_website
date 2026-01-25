@@ -8,6 +8,3 @@ Tags: [[NPC]] [[Kritar Kargank]] [[The great intrusion]] [[Kas-Nak]]
 
 
 Vader van [[Kritar Kargank]]
-
-
-## References

@@ -9,7 +9,3 @@ Tags: [[NPC]] [[The great intrusion]] [[Ravagorn (The mountains breath)]] [[Asta
 The champion of the lord of Shadows
 
 Vermoordde [[🚧 King Orlo I]] op gruwelijke wijze.
-
-
-
-## References

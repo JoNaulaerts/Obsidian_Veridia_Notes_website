@@ -2,14 +2,10 @@
 
 Status:
 
-Tags: [[Kingdom of Mordai]]  [[Draegorn mountains]] [[Shadowmire]]
+Tags: [[Kingdom of Mordai]]  [[🚧 Draegorn mountains]] [[Shadowmire]]
 
 # Shadowmire Mines
 
 plaats waar men [[Shadowmire Aethertwine]] kan vinden
 
-Naast de mijn is een grote tempel van [[The Blood Veil]]. In deze tempel vindt het ritueel om [[Rosha]] terug te brengen plaats.
-
-
-
-## References
+Naast de mijn is een grote tempel van [[🚧 The Blood Veil]]. In deze tempel vindt het ritueel om [[Rosha]] terug te brengen plaats.

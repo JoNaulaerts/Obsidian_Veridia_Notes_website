@@ -13,7 +13,3 @@ miniatuurversie van het apparaat dat [[Avalir]] kon laten vliegen.
 Kan waarschijnlijk gebruikt worden om [[The foam crest]] te laten vliegen in de [[🚧 Astral Sea]]
 
 ❓ We weten nog niet wat het doet of hoe het werkt
-
-
-
-## References

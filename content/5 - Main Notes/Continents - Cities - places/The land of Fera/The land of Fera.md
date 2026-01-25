@@ -13,5 +13,4 @@ The land of Fera is een land vol natuur en groen.
 - mighty rivers
 - dangers lurk in the shadows
 	- predators , "mythical" creatures
-- [[The mythical forest of Ghorna]] is a safe haven 
-# References
+- [[🚧 The mythical forest of Ghorna]] is a safe haven 

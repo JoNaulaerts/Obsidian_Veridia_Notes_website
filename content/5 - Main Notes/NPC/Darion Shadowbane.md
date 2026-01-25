@@ -6,8 +6,4 @@ Tags: [[NPC]] [[Vinguri]]
 
 # Darion
 
-aanvoerder v. de vinguri
-
-
-
-## References
+Aanvoerder van de vinguri

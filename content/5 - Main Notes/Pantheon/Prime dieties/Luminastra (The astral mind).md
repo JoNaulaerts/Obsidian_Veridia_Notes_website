@@ -7,7 +7,3 @@ Tags: [[Pantheon]] [[Prime dieties]] [[Sylvana (Patron of life)]]
 # Luminastra (The astral mind)
 
 zus van [[Sylvana (Patron of life)]]
-
-
-
-## References

@@ -7,6 +7,3 @@ Tags: [[NPC]] [[The Delaney Family]]
 # Aurelia Delaney
 
 moeder [[Brom (Bernard Delaney)]]
-
-
-## References

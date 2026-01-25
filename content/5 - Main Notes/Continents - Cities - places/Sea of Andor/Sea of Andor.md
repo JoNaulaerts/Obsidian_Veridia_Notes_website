@@ -16,10 +16,3 @@ Tropishe omgeving:
 Er zouden zeemonsters in het tropische water van de Sea of Andor leven. 
 
 Dit gebied kent en rijke handelscultuur. Door de bedrijvige scheepvaart kan je in grote handelssteden, zoals [[Ximitrion]], waren kopen van zelfs de verste uithoeken van het continent. 
-
-
-
-
-
-
-## References

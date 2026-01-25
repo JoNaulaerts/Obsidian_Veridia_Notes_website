@@ -7,7 +7,3 @@ Tags: [[NPC]] [[Crescent village]]
 # Lady Elsbeth Northwind
 
 Burgemeester van [[Crescent village]] 
-
-
-
-## References

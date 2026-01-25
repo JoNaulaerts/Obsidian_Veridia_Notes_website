@@ -2,13 +2,10 @@
 
 Status:
 
-Tags: [[NPC]] [[The Delaney Family]] [[Lark]] [[Enigma]] [[Astaroth (The void shadow fiend)]]
+Tags: [[NPC]] [[The Delaney Family]] [[🚧 Lark]] [[Enigma]] [[Astaroth (The void shadow fiend)]]
 
 # Montgomery Delaney
 
 Vader van [[Brom (Bernard Delaney)]]
 Geofferd om [[Rosha]] terug te brengen.
-Had [[The Blood Veil]] verraden????
-
-
-## References
+❓Had [[🚧 The Blood Veil]] verraden???? 

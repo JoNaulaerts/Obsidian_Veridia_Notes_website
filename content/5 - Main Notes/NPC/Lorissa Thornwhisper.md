@@ -8,11 +8,7 @@ Tags: [[NPC]] [[Elyssra Thornwhisper]] [[Shadowmire Aethertwine]] [[Black vain]]
 
 Zus van [[Elyssra Thornwhisper]]
 
-Heeft een apotheek in [[Shantytown]], [[Venia]].
+Heeft een apotheek in [[Shantytown]], [[🚧 Venia]].
 Kan [[Black vain]] genezen. 
 
 Lorissa bezit duidelijk het vermogen tot krachtige magie.
-
-
-
-## References

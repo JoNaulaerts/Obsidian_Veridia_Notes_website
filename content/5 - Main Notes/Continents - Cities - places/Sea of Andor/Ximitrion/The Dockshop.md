@@ -9,10 +9,6 @@ Tags: [[Ximitrion]]
 voor al uw benodigdheden en diensten met betrekking tot boten en scheepvaart.
 
 
-marc en marcel werken in de shop
+[[Marc]] en [[Marcel]] werken in de shop
 
-mariette maakt vlaggen voor boten.
-
-
-
-## References
+[[Mariette]] maakt vlaggen voor boten.

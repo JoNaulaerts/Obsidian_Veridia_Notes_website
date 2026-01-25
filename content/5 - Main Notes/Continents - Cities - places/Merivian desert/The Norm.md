@@ -7,6 +7,3 @@ Tags: [[Merivian Desert]]
 # The Norm
 
 Nomadisch volk dat in The [[Merivian Desert]] leeft.
-
-
-## References

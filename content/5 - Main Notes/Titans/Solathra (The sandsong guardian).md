@@ -7,7 +7,3 @@ Tags: [[Titans]] [[(SOUTH) Merivian Desert]]
 # Solathra (The sandsong guardian)
 
 Schildpadachtig
-
-
-
-## References

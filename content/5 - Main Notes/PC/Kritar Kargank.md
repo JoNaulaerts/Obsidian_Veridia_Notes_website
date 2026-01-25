@@ -2,17 +2,15 @@
 
 Status:
 
-Tags: [[PC]] [[Ximitrion]] [[Edric Voss]] [[Voss Line]] [[The Seadweller]]
+Tags: [[PC]] [[Ximitrion]] [[Edric Voss]] [[🚧 Voss Line]] [[🚧 The Seadweller]]
 
 # Kritar Kargank
 
 "Vadokan Palaruk???"
 
 
-Had veel schulden bij [[Edric Voss]], want was [[The Seadweller]] kwijtgeraakt in een storm.
+Had veel schulden bij [[Edric Voss]], want was [[🚧 The Seadweller]] kwijtgeraakt in een storm.
 
-Hij is  [[🚧 Provayer of the forge]].
+Hij is  [[🚧 Purvayor of the forge]].
 
 Heeft het potentieel om [[🚧 The Smith of wonders]] te worden als hij het roeping omarmt.
-
-## References

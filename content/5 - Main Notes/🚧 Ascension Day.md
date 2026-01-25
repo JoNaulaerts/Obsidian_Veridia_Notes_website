@@ -7,7 +7,3 @@ Tags: [[The great intrusion]]
 # Ascension Day
 
 🚧🏗️ Aan deze pagina wordt momenteel nog hard gewerkt 👷‍♂️🚧
-
-
-
-## References

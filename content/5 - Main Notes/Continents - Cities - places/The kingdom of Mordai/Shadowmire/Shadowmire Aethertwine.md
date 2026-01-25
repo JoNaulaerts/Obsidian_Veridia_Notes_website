@@ -2,12 +2,9 @@
 
 Status:
 
-Tags: [[Black vain]] [[Draegorn mountains]]
+Tags: [[Black vain]] [[🚧 Draegorn mountains]]
 
 # Shadowmire Aethertwine
 
 Zeer zeldzame bloem die kan helpen om [[Black vain]] te genezen.
 te vinden in [[Shadowmire Mines]]
-
-
-## References

@@ -11,7 +11,3 @@ kan gebruikt worden om [[Black vain]] te bestrijden of te stabiliseren voor een 
 Plaatsen waar gevonden:
 - Tempel van luminastra onder kathedraal in [[The ivory towers district]]
 - 
-
-
-
-## References

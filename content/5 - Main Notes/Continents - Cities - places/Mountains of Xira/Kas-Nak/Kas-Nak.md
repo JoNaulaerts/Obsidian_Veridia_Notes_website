@@ -27,8 +27,3 @@ De ingang is een obsidianen poort die opengaat als je drie dingen kan geven:
 - Een ancestral name
 - Een fysieke sleutel 
 - nog iets dat ik niet meer heb opgeschreven oeps
-
-
-
-
-## References

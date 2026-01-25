@@ -2,7 +2,7 @@
 
 Status:
 
-Tags: [[(SOUTH) Merivian Desert]]
+Tags: [[The Delaney Family]]
 
 # Merivian Desert (SOUTH)
 
@@ -13,11 +13,9 @@ Er woeden op tijd en op stond hevige, gevaarlijke zandstormen over de woestijn.
 [[The Norm]] zijn een nomadisch volk dat leeft in de woestijn.
 
 
-[[Ancient secrets in the dunes]]
+[[🚧 Ancient secrets in the dunes]]
 
 
 
 
 er is een handelsstad met een vlag van een woestijn en een schildpad
-
-## References

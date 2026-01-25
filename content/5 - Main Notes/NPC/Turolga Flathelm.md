@@ -2,14 +2,10 @@
 
 Status:
 
-Tags: [[NPC]] [[Venia]] [[Shantytown]]
+Tags: [[NPC]] [[🚧 Venia]] [[Shantytown]]
 
 # Turolga Flathelm
 
 kattenvrouw
 
 Werkte in de kluis van [[Lady Vidorant]] en werd ontslagen, omdat ze haar katten mee naar het werk nam. 
-
-
-
-## References

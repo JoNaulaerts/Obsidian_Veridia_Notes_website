@@ -2,7 +2,7 @@
 
 Status:
 
-Tags: [[Venia]]
+Tags: [[🚧 Venia]]
 
 # The verdant rest
 
@@ -14,5 +14,3 @@ sterk bewaakt
 [[De Charel]] heeft er zijn bankje
 
 Er is een Bakker en een bloemenwinkel. Tussen deze twee gebouwen is een dichte haag. Achter deze haag bevindt zich [[The green heart]]
-
-## References

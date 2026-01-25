@@ -6,7 +6,4 @@ Tags: [[Vailora]] [[Radim Stith (Midar The Collector) ✝]]
 
 # The library of time
 
-schedelcollectie van [[Radim Stith (Midar The Collector) ✝]] onder de ruïnes van [[The White tower]].
-
-
-## References
+schedelcollectie van [[Radim Stith (Midar The Collector) ✝]] onder de ruïnes van [[🚧 The White tower]]

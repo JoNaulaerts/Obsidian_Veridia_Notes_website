@@ -10,10 +10,3 @@ Gelegen op [[Malaouk]]
 
 Een mythische plek, het land van eeuwige roem, oneindig geld
 Het is een stad, het paradijs van de piraten, een grote commune om schatten te bundelen.
-
-
-
-
-
-
-## References

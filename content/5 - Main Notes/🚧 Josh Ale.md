@@ -7,7 +7,3 @@ Tags: [[Ximitrion]]
 # Josh Ale
 
 🚧🏗️ Aan deze pagina wordt momenteel nog hard gewerkt 👷‍♂️🚧
-
-
-
-## References

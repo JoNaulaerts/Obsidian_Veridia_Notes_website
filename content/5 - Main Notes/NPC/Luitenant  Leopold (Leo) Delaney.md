@@ -7,6 +7,3 @@ Tags: [[NPC]] [[Brom (Bernard Delaney)]] [[🚧 Red Cloaks]]
 # Luitenant  Leopold (Leo) Delaney
 
 Halfbroer van [[Brom (Bernard Delaney)]]
-
-
-## References

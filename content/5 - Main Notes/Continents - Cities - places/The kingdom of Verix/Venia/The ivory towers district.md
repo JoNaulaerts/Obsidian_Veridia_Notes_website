@@ -2,13 +2,10 @@
 
 Status:
 
-Tags: [[Venia]]
+Tags: [[🚧 Venia]]
 
 # The ivory towers district
 
 
 Onder dit district bevinden zich een heel gangenstelsel aan catacomben en riolen.
 Dit gangenstelsel wordt ook wel gebruikt om [[King Orlo II]] en andere nobelen te verplaatsen. Dit doet men uit veiligheidsoverwegingen.
-
-
-## References

@@ -9,7 +9,3 @@ Tags: [[The wraith of Larkspire]]
 beeld van 2 geliefden [[Edmund Delaney ✝]] en zijn vrouw
 
 plaats van verzegeling op het einde van [[The wraith of Larkspire]]
-
-
-
-## References

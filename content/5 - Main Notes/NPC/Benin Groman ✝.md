@@ -8,7 +8,3 @@ Tags: [[🚧 The radiant soul]] [[NPC]]
 
 We vonden een grafzerk met zijn naam.
 op deze grafzerk stond een symbool van [[🚧 The radiant soul]] 
-
-
-
-## References

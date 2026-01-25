@@ -2,11 +2,8 @@
 
 Status:
 
-Tags: [[NPC]] [[Aernu Raemas]] [[Aerar Raemas]]
+Tags: [[NPC]] [[🚧 Aernu Raemas]] [[🚧 Aerar Raemas]]
 
 # Aegron
 
-Vader van [[Aernu Raemas]] [[Aerar Raemas]]
-
-
-## References
+Vader van [[🚧 Aernu Raemas]] [[🚧 Aerar Raemas]]

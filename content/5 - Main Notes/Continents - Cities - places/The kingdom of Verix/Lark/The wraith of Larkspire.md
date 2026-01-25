@@ -2,13 +2,13 @@
 
 Status:
 
-Tags: [[The castle of Lark]]
+Tags: [[🚧 The castle of Lark]]
 
 # The wraith of Larkspire
 
 "sprookje" over een vloek waar ze zich jaren tegen wilde beschermen.
 
-Beeld in de tuin van [[The castle of Lark]] met op een plakkaat [[Lady and the Lord of the Lakespire conduit]]
+Beeld in de tuin van [[🚧 The castle of Lark]] met op een plakkaat [[Lady and the Lord of the Lakespire conduit]]
 
 Once upon a time, in the quiet hills of Larkspire, there stood a grand castle, its towers reaching high into the sky and casting shadows over the land. The people of Lark knew that as the sun set and night fell, the shadows grew long, hiding secrets in their dark folds. And the darkest secret of all was of The Lady of the Pale Veil.
 
@@ -23,7 +23,3 @@ This warrior, knowing the castle’s many secrets, ventured deep into the heart 
 But she was not destroyed. No, the warrior knew her spirit was too strong to be fully vanquished, so he sealed her away in a tomb, far beneath the gardens of Larkspire. Beneath a statue of the very warrior who had defeated her, he laid a powerful enchantment over her resting place, so that her dark soul would remain trapped.
 
 To this day, the people of Lark avoid the gardens on dark nights, and children are warned to never approach the statue, for fear that her whispers might escape. They say that if you listen closely enough on a moonless night, you can still hear her soft, mournful song, calling out from beneath the ground, waiting for the day when someone is foolish enough to break the seal and let her walk free once more.
-
-
-
-## References

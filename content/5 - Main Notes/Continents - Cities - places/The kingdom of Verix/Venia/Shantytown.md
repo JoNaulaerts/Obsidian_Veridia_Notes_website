@@ -2,14 +2,10 @@
 
 Status:
 
-Tags: [[Venia]] 
+Tags: [[🚧 Venia]] 
 
 # Shantytown
 
-sloppenwijk van [[Venia]] 
+sloppenwijk van [[🚧 Venia]] 
 
 hier zijn armoede en criminaliteit dagelijkse kost
- 
-
-
-## References

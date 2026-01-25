@@ -7,8 +7,3 @@ Tags: [[Sea of Andor]] [[Libertalia]] [[Henry Voss]]
 # Malaouk
 
 Verborgen pirateneiland in [[Sea of Andor]]
-
-
-
-
-## References

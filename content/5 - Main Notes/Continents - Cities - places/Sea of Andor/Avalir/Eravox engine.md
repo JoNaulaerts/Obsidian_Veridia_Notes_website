@@ -7,7 +7,3 @@ Tags: [[Avalir]]
 # Eravox engine
 
 anti-magische apparatuur, zorgde er uiteindelijk voor dat [[Avalir]] neerstortte.
-
-
-
-## References

@@ -7,7 +7,3 @@ Tags: [[NPC]]
 # King Orlo I
 
 Vermoord door [[🚧 Primus Taconis]] tijdens [[The great intrusion]]
-
-
-
-## References

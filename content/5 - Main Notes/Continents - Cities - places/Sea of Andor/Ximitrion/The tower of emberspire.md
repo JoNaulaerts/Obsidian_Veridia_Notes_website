@@ -11,6 +11,3 @@ Toren van  [[🚧 The radiant soul]]
 conduit van [[🚧 Laylines]]
 
 [[Grizwick]] 
-
-
-## References

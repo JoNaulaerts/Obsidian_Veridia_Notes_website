@@ -7,8 +7,3 @@ Tags: [[Titans]] [[(EAST) The land of Fera]]
 # Verdant Heart (The sylvan veil)
 
 Woud met schaduw en mysterieuze groene ogen
-
-
-
-
-## References

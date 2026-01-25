@@ -12,7 +12,7 @@ Tags:
 	1) Travel to the stars
 	2) convince [[🚧 The roaming captain]]
 	3) reach [[🚧 The Dead mount of the Gods]]
-	4) Let your father (van [[Aernu Raemas]] en [[Aerar Raemas]] ???) guide you
+	4) Let your father (van [[🚧 Aernu Raemas]] en [[🚧 Aerar Raemas]] ???) guide you
 	5) Let the light touch your soul
 
 3) Wie is [[🚧 The roaming captain]]?
@@ -21,5 +21,3 @@ Tags:
 4) Wat is [[🚧 The Dead mount of the Gods]]?
 5) Wat is de vloek van [[The Delaney Family]]
 6) Waar is [[Aeon Gelidon]]?
-
-## References

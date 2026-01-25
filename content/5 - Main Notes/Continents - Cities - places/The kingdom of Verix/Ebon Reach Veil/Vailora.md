@@ -9,6 +9,3 @@ Tags: [[The kingdom of Verix]]
 [[The library of time]]
 
 [[Radim Stith (Midar The Collector) ✝]]
-
-
-## References

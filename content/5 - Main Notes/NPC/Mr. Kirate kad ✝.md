@@ -2,15 +2,12 @@
 
 Status:
 
-Tags: [[NPC]] [[Paduc]]
+Tags: [[NPC]] [[🚧 Paduc]]
 
 # Mr. Kirate kad
 
 Sensei van [[Miyagi Do]].
 
-Beschermer van [[Paduc]] en [[Batu Darah]]
+Beschermer van [[🚧 Paduc]] en [[Batu Darah]]
 
 Gestorven aan de gevolgen van [[Black vain]]
-
-
-## References

@@ -8,7 +8,3 @@ Tags: [[NPC]] [[Kingdom of Mordai]] [[Shadowmire]]
 
 Dwerg met armprothese.
 Heeft de party van geitjes voorzien als vervoermiddel
-
-
-
-## References

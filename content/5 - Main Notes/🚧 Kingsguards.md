@@ -8,6 +8,3 @@ Tags: [[🚧 Red Cloaks]] [[🚧 The house of Verix]] [[King Orlo II]]
 
 - [[Selene Ravenshadow]] is aanvoerder
 - [[Luitenant  Leopold (Leo) Delaney]] is lid
-
-
-## References

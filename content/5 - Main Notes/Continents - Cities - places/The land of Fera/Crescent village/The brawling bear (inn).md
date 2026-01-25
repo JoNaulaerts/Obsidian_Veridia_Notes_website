@@ -8,7 +8,3 @@ Tags: [[Crescent village]]
 
 - [[Milo Blackwood]] is de innkeeper.
 - Populairste keet in Crescent village 
-
-
-
-## References

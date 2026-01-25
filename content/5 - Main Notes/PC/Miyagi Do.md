@@ -7,7 +7,3 @@ Tags: [[PC]] [[Mr. Kirate kad ✝]]
 # Miyagi Do
 
 Miyagi zal ooit master van [[Batu Darah]] worden volgens [[🚧 Shen-Zhao ✝]]
-
-
-
-## References

@@ -2,13 +2,10 @@
 
 Status:
 
-Tags: [[Paduc]] 
+Tags: [[🚧 Paduc]] 
 
 # Gavro Fital
 
 Wetenschapper
-Eerste beschermer van [[Paduc]]
+Eerste beschermer van [[🚧 Paduc]]
 Stierf tijdens [[The great intrusion]]
-
-
-## References

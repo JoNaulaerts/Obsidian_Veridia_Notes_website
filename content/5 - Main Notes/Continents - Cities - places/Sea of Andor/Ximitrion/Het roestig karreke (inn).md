@@ -8,6 +8,3 @@ Tags: [[Ximitrion]]
 
 kroeg met muziek in [[Ximitrion]]
 vaste keet van [[Will Forno]]
-
-
-## References

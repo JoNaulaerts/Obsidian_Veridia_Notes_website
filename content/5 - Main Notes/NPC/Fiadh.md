@@ -2,14 +2,10 @@
 
 Status:
 
-Tags:[[NPC]] [[Taure Galu (commune Aernu)]] [[Aernu Raemas]]
+Tags:[[NPC]] [[Taure Galu (commune Aernu)]] [[🚧 Aernu Raemas]]
 
 # Fiadh
 
 Firbolg
 
-afgezant van [[Aernu Raemas]] in [[Taure Galu (commune Aernu)]]
-
-
-
-## References
+afgezant van [[🚧 Aernu Raemas]] in [[Taure Galu (commune Aernu)]]

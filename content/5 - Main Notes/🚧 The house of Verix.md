@@ -2,12 +2,8 @@
 
 Status:
 
-Tags: [[Venia]]
+Tags: [[🚧 Venia]]
 
 # The house of Verix
 
 🚧🏗️ Aan deze pagina wordt momenteel nog hard gewerkt 👷‍♂️🚧
-
-
-
-## References

@@ -7,8 +7,3 @@ Tags: [[PC]]
 # Brom (Bernard Delaney)
 
 Halfbroer van [[Luitenant  Leopold (Leo) Delaney]]
-
-
-
-
-## References

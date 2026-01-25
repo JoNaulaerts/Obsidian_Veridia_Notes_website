@@ -9,7 +9,3 @@ Tags: [[NPC]]
 Necromancer Midar the Collector
 
 Doet zich voor als  Radim Stith, een oude verlegen stotterende historicus
-
-
-
-## References

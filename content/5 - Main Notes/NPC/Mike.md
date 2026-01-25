@@ -2,7 +2,7 @@
 
 Status:
 
-Tags: [[NPC]] [[Sir Kaelor Varn]]
+Tags: [[NPC]] [[🚧 Sir Kaelor Varn]]
 
 # Mike
 
@@ -10,8 +10,4 @@ Magic Mike, Snelle Mike is een magische capibara, de grootte van een paard en is
 
 Hij heeft arcane energy in zich.
 
-Hij is de trouwe vriend van [[Sir Kaelor Varn]]
-
-
-
-## References
+Hij is de trouwe vriend van [[🚧 Sir Kaelor Varn]]

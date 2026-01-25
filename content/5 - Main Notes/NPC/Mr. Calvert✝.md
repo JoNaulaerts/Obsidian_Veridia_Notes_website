@@ -2,12 +2,8 @@
 
 Status:
 
-Tags: [[NPC]] [[The castle of Lark]]
+Tags: [[NPC]] [[🚧 The castle of Lark]]
 
 # Mr. Calvert
 
-Butler in [[The castle of Lark]]
-
-
-
-## References
+Butler in [[🚧 The castle of Lark]]

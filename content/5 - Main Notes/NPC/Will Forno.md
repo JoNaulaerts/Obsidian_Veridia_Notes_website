@@ -7,7 +7,3 @@ Tags: [[NPC]] [[Ximitrion]]
 # Will Forno
 
 lokale praatjesmaker en verhalenverteller in [[Ximitrion]] [[Het roestig karreke (inn)]]
-
-
-
-## References

@@ -7,7 +7,3 @@ Tags: [[The kingdom of Verix]]
 # Red Cloaks
 
 Elite warriors loyal to the kingdom.
-
-
-
-## References

@@ -8,8 +8,3 @@ Tags: [[Titans]] [[(WEST) Mountains of Xira]]
 
 The mountains wrath
 draak diep onder de bergen
-
-
-
-
-## References

@@ -2,12 +2,8 @@
 
 Status:
 
-Tags: [[Venia]]
+Tags: [[🚧 Venia]]
 
 # The Council of the wise
 
 College of powerful wizards
-
-
-
-## References

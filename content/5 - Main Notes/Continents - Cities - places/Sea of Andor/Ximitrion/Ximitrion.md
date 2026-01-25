@@ -7,7 +7,3 @@ Tags: [[Sea of Andor]]
 # Ximitrion
 
 Bruisende handelsstad in het Noorden
-
-
-
-## References

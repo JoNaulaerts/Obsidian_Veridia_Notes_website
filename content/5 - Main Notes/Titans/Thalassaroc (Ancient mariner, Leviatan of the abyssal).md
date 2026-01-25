@@ -7,7 +7,3 @@ Tags: [[Titans]] [[(NORTH) Sea of Andor]]
 # Thalassaroc (Ancient mariner, Leviatan of the abyssal)
 
 Slang
-
-
-
-## References

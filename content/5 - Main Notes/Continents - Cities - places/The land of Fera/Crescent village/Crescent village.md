@@ -10,6 +10,3 @@ Tags:  [[The land of Fera]]
 - 
 
 Er is een [[jaarlijks oogstfestival]].
-
-
-## References
