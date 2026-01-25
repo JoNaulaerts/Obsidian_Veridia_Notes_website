@@ -1,0 +1,10 @@
+2025-11-12 17:09
+
+Status: #WIP 
+
+Tags:
+- [[❓ Onopgeloste vragen]]
+
+# The roaming captain
+
+❓is  [[Kritar Kargank]] the roaming captain??

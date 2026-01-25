@@ -1,0 +1,18 @@
+2025-05-16 22:31
+
+Status: #Finished 
+
+Tags:
+- [[NPC]]
+- [[Elyssra Thornwhisper]]
+- [[Shadowmire Aethertwine]]
+- [[Black vain]]
+
+# Lorissa Thornwhisper
+
+Zus van [[Elyssra Thornwhisper]]
+
+Heeft een apotheek in [[Shantytown]], [[🚧 Venia]].
+Kan [[Black vain]] genezen. 
+
+Lorissa bezit duidelijk het vermogen tot krachtige magie.
