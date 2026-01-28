@@ -29,7 +29,7 @@ Elk lid van de  [[Champions of the Radiant Soul]] offerde iets op, stak het in e
 - [[🚧 Aegron]] offerde zijn vrijheid. Zijn bewustzijn zit in de steen en zijn lichaam bleef over als een lege schaal. Zijn bloodstone is waarschijnlijk in de [[🚧 Astral Sea]] verborgen. [[🚧 Aegron]] is nu de beschermer van de bloodstone
 - [[Edmund Delaney ✝]] offerde zijn gezondheid op en stierf niet lang na de intrusion
 - [[Auruna (Raemas)]] offerde haar magische krachten op. 
-- [[🚧 Shen-Zhao ✝]] offerde zijn levens energie en stierf.
+- [[Shen-Zhao ✝]] offerde zijn levens energie en stierf.
 - [[🚧 Sir Vaeris ✝]] offerde zijn leven op. Van hem bleven enkel zijn zwaard en zijn shild over
 
 ## Nasleep: 
@@ -38,6 +38,6 @@ De Great intrusion heeft tijd en ruimte versplinterd:
 - Steden, gebouwen en personen werden uit de geschiedenis gewist, maar ook nieuwe steden ontstonden en personen die er eerst niet waren vonden hun weg naar het bestaan. 
 - [[Auruna (Raemas)]] was plots hoogzwanger
 - [[🚧 Gorath ironhand Kargank ✝]] keerde nooit terug naar huis, en [[Kritar Kargank]]s moeder verloor haar leven
-- [[🚧 Shen-Zhao ✝]] is verdwenen uit de tijd
+- [[Shen-Zhao ✝]] is verdwenen uit de tijd
 - [[Avalir]] is 50 jaar in de tijd verschoven
 - [[Edmund Delaney ✝]] is plots snel verouderd en gestorven

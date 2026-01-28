@@ -8,4 +8,4 @@ Tags:
 
 # Miyagi Do
 
-Miyagi zal ooit master van [[Batu Darah]] worden volgens [[🚧 Shen-Zhao ✝]]
+Miyagi zal ooit master van [[Batu Darah]] worden volgens [[Shen-Zhao ✝]]
