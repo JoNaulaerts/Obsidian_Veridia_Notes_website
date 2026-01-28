@@ -5,7 +5,7 @@ Status: #Just_Created
 Tags:
 - [[Kas-Nak]]
 - [[Kritar Kargank]]
-- [[🚧 Ixalan clan]]
+- [[Ixalan clan]]
 
 # Purvayor of the forge
 

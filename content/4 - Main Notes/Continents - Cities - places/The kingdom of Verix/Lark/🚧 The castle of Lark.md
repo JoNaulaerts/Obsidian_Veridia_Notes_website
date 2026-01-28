@@ -6,7 +6,7 @@ Tags:
 - [[🚧 Lark]]
 - [[The Delaney Family]]
 - [[Brom (Bernard Delaney)]]
-- [[🚧 Laylines]]
+- [[Laylines]]
 
 # The castle of Lark
 

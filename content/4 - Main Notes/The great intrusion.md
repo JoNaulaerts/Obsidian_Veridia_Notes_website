@@ -4,7 +4,7 @@ Status: #Finished
 
 Tags:
 - [[Pantheon]]
-- [[🚧 Arkenite core]]
+- [[Arkenite core]]
 - [[🚧 The Blood Veil]]
 - [[🚧 The radiant soul]]
 
@@ -15,8 +15,8 @@ intrusion = barsten tussen de werelden (planes of existence waarschijnlijk)
 
 [[Astaroth (The void shadow fiend)]] was te sterk en wilde alleen heerser zijn over het universum.
 
-Doormiddel van zijn volgelingen viel [[Astaroth (The void shadow fiend)]] alle [[Nexuspoint]]s op hetzelfde moment aangevallen met [[🚧 Arkenite core]]s.
-Het doel hiervan was: Nexuspoints en [[🚧 Laylines]]  vernielen en de magie, zoals wij haar kennen kapot te maken.
+Doormiddel van zijn volgelingen viel [[Astaroth (The void shadow fiend)]] alle [[Nexuspoint]]s op hetzelfde moment aangevallen met [[Arkenite core]]s.
+Het doel hiervan was: Nexuspoints en [[Laylines]]  vernielen en de magie, zoals wij haar kennen kapot te maken.
 
 Hij gebruikte een champion [[Ravagorn (The mountains breath)]].
 Ravagorn werd gesummond in [[🚧 The castle of Lark]] door [[🚧 Primus Taconis]], [[Rosha]] en nog enkele andere cultists. Het meer dat [[🚧 The castle of Lark]] en [[🚧 Lark]] scheidt is een gevolg van de magie (reverse gravity) van [[Ravagorn (The mountains breath)]]

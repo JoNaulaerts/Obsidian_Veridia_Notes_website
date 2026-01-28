@@ -10,8 +10,9 @@ Tags:
 
 # Kaelin Thorn
 
-Magiër van [[Edric Voss]].
+Magiër en raadsheer van [[Edric Voss]].
 
 Tattoos op armen
 
-Deel van [[🚧 The radiant soul]] en wil [[Edric Voss]] ondermijnen. Kaelin houdt een oogje in het zeil.
+Kaelin maakt deel uit van [[🚧 The radiant soul]] en wil [[Edric Voss]] ondermijnen.
+Kaelin houdt een oogje in het zeil in [[Ximitrion]].

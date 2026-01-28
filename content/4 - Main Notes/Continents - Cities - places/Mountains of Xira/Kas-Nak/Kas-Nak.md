@@ -20,7 +20,7 @@ Kas-Nak became the tomb/ prison of the beast
 
 Het is niet geweten of dit monster nog leeft, of het nog in Kas-Nak verblijft ...
 
-[[Kritar Kargank]] is de enige orc van de [[🚧 Ixalan clan]] die de aanval van dit monster overleefde.
+[[Kritar Kargank]] is de enige orc van de [[Ixalan clan]] die de aanval van dit monster overleefde.
 
 ## Familie-ingang
 

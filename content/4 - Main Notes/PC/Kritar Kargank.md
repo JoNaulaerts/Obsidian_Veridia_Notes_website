@@ -8,6 +8,7 @@ Tags:
 - [[Edric Voss]]
 - [[🚧 Voss Line]]
 - [[🚧 The Seadweller]]
+- [[Kas-Nak]]
 
 # Kritar Kargank
 

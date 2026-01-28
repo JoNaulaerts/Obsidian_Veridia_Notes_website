@@ -7,15 +7,16 @@ Tags:
 
 # Guilidon
 
-forged in the heart of the [[🚧 Laylines]]
+Forged in the heart of the [[Laylines]]
 
 Guilidon was de laatste [[Champions of the betrayer gods]]
 
 Werd verbannen in de aarde door de [[Champions of the Radiant Soul]]
-=> 5 ledematen geketend ([[Bloodstones (Doelwitten)]]):
+=> 6 ledematen geketend ([[Bloodstones (Doelwitten)]]):
 
 - Rechter arm:
 - Linker arm:
 - Rechter voet: [[Batu Darah]]
 - Linker voet:
 - Hoofd:
+- ❓...

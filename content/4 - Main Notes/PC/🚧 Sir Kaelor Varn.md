@@ -4,6 +4,7 @@ Status: #Just_Created
 
 Tags:
 - [[PC]]
+- [[Avalir]]
 
 # Sir Kaelor Varn
 

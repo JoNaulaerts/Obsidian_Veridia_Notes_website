@@ -6,12 +6,12 @@ Tags:
 - [[Ximitrion]]
 - [[🚧 The radiant soul]]
 - [[Kaelin Thorn]]
-- [[🚧 Laylines]]
+- [[Laylines]]
 
 # The tower of emberspire
 
 Toren van  [[🚧 The radiant soul]]
 
-conduit van [[🚧 Laylines]]
+conduit van [[Laylines]]
 
 [[Grizwick]] 

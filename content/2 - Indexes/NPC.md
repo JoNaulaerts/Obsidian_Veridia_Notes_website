@@ -37,7 +37,7 @@
 - [[Lorissa Thornwhisper]]
 - [[Luitenant  Leopold (Leo) Delaney]]
 - [[🚧 Malachai]]
-- [[🚧Marlo]]
+- [[🚧 Marlo]]
 - [[Mike]]
 - [[Milo Blackwood]]
 - [[Mistral]]

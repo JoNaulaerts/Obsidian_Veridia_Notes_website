@@ -4,11 +4,11 @@ Status: #WIP
 
 Tags:
 - [[Avalir]]
-- [[🚧 Arkenite core]]
+- [[Arkenite core]]
 
 # Titan forge
 
-Mythical engin powered by [[🚧 Arkenite core]]
+Mythical engin powered by [[Arkenite core]]
 
 Constructs, golems, helpen
 celestial machinery
