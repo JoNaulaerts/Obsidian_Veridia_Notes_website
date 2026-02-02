@@ -5,10 +5,10 @@ Status: #WIP
 Tags:
 - [[NPC]]
 - [[Taure Galu]]
-- [[🚧 Aernu Raemas]]
+- [[🚧 Aernu Raemas ✝]]
 
 # Fiadh
 
 Firbolg
 
-afgezant van [[🚧 Aernu Raemas]] in [[Taure Galu]]
+afgezant van [[🚧 Aernu Raemas ✝]] in [[Taure Galu]]

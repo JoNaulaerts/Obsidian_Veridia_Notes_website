@@ -26,7 +26,7 @@ Ravagorn werd gesummond in [[🚧 The castle of Lark]] door [[🚧 Primus Taconi
 Elk lid van de  [[Champions of the Radiant Soul]] offerde iets op, stak het in een Bloodstone en ketende Ravagorn.
 
 - [[🚧 Gorath ironhand Kargank ✝]] offerde zijn leven.
-- [[🚧 Aegron]] offerde zijn vrijheid. Zijn bewustzijn zit in de steen en zijn lichaam bleef over als een lege schaal. Zijn bloodstone is waarschijnlijk in de [[🚧 Astral Sea]] verborgen. [[🚧 Aegron]] is nu de beschermer van de bloodstone
+- [[🚧 Aegnor]] offerde zijn vrijheid. Zijn bewustzijn zit in de steen en zijn lichaam bleef over als een lege schaal. Zijn bloodstone is waarschijnlijk in de [[🚧 Astral Sea]] verborgen. [[🚧 Aegnor]] is nu de beschermer van de bloodstone
 - [[Edmund Delaney ✝]] offerde zijn gezondheid op en stierf niet lang na de intrusion
 - [[Auruna (Raemas)]] offerde haar magische krachten op. 
 - [[Shen-Zhao ✝]] offerde zijn levens energie en stierf.

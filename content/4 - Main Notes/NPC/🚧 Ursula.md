@@ -6,6 +6,7 @@ Tags:
 - [[NPC]]
 - [[🚧 The castle of Lark]]
 - [[Enigma]]
+- [[Taure Galu]]
 
 # Ursula
 

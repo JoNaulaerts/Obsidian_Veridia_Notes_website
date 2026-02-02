@@ -36,7 +36,7 @@
 - [[Lady Vidorant]]
 - [[Lorissa Thornwhisper]]
 - [[Luitenant  Leopold (Leo) Delaney]]
-- [[🚧 Malachai]]
+- [[🚧 Malachai Darkthorn]]
 - [[🚧 Marlo]]
 - [[Mike]]
 - [[Milo Blackwood]]

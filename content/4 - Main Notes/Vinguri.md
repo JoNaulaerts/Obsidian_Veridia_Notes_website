@@ -8,7 +8,7 @@ Tags:
 - [[Barry Nightshade]]
 - [[Darion Shadowbane]]
 - [[🚧 Decklan]]
-- [[🚧 Malachai]]
+- [[🚧 Malachai Darkthorn]]
 - [[🚧 Aerar Raemas]]
 
 # Vinguri
@@ -24,10 +24,10 @@ Oude leden:
 - [[Darion Shadowbane]]
 - [[🚧 Decklan]]
 - [[Barry Nightshade]]
-- [[🚧 Malachai]]
+- [[🚧 Malachai Darkthorn]]
 
 Nieuwe leden:
 - [[Darion Shadowbane]] (aanvoerder)
 - [[Barry Nightshade]] 
 - [[🚧 Decklan]] ❓
-- [[🚧 Malachai]] ❓
+- [[🚧 Malachai Darkthorn]] ❓

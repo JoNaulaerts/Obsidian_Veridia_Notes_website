@@ -5,7 +5,7 @@ Status: #Just_Created
 Tags:
 - [[PC]]
 - [[Astaroth (The void shadow fiend)]]
-- [[🚧 Aernu Raemas]]
+- [[🚧 Aernu Raemas ✝]]
 
 # Aerar Raemas
 

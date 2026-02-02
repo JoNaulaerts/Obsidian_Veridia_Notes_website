@@ -4,7 +4,7 @@ Status: #Just_Created #WIP
 
 Tags:
 - [[Taure Galu]]
-- [[🚧 Aernu Raemas]]
+- [[🚧 Aernu Raemas ✝]]
 
 # The architects book
 

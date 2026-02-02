@@ -8,4 +8,6 @@ Tags:
 
 # Aernu Raemas
 
+Tweelingbroer van [[🚧 Aerar Raemas]]
+
 🚧🏗️ Aan deze pagina wordt momenteel nog hard gewerkt 👷‍♂️🚧
