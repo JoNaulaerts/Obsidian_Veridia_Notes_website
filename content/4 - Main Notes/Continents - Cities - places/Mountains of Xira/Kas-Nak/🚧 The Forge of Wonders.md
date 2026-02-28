@@ -1,17 +1,10 @@
 2026-02-02 21:23
 # The Forge of Wonders
 
-Status: #Just_Created #WIP #Finished 
-
+Status: #WIP 
 Tags:
-- 
+- [[Kas-Nak]]
 
-🚧🏗️ Aan deze pagina wordt momenteel nog hard gewerkt 👷‍♂️🚧
+The forge of wonders is een plaats in Kas-Nak waar de speciaalste voorwerpen gesmeden kunnen worden, waaronder ook een [[Spelljammer helm]] en [[Mind breaker (Legendary Warhammer)]]
 
-
-legende emoji's:
-
-❓: hier zijn nog vragen over  
-🚧: aan deze pagina wordt nog gewerkt
-✝: overleden
-
+De forge moet bediend worden door de [[🚧 Purvayor of the forge]] of [[🚧 The Smith of wonders]]
