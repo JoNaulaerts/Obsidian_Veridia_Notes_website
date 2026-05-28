@@ -40,7 +40,7 @@ De ingang is een obsidianen poort die opengaat als je drie dingen kan geven:
 
 Er zijn geheime gangen in Kas-Nak, die voornamelijk door de adel gebruikt werden om sneller en ongemerkt te navigeren tussen de verschillende districten.
 
-onderweg doorheen de stad en de geheime gangen schrijft [[🚧 Aernu Raemas ✝]] "Mistral" in het druidic op de muren om de weg te onthouden. ([[🚧 Sir Kaelor Varn]] tekent hier en daar een piemel 🤦)
+onderweg doorheen de stad en de geheime gangen schrijft [[Aernu Raemas ✝]] "Mistral" in het druidic op de muren om de weg te onthouden. ([[Sir Kaelor Varn]] tekent hier en daar een piemel 🤦)
 ## Districten
 - [[🚧 The Kas-Nak Mines]]
 - [[🚧The Iron pits]]

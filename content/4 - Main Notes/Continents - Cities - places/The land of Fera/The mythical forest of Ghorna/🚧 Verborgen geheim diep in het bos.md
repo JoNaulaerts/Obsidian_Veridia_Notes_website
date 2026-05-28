@@ -4,7 +4,7 @@ Status: #Just_Created
 
 Tags:
 - [[The land of Fera]]
-- [[🚧 The mythical forest of Ghorna]]
+- [[The mythical forest of Ghorna]]
 - [[Bloodstones (Doelwitten)]]
 
 # Verborgen geheim diep in het bos

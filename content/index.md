@@ -1,5 +1,4 @@
 
-
 ![[ascii-art-text.png]]
 # Welcome to Veridia
 
@@ -13,6 +12,7 @@ Of je nu een doorgewinterde held bent of een groentje met een vers geslepen zwaa
 
 Het avontuur wacht.
 
+- [[❓ Onopgeloste vragen]]
+- [[🔒🗝️ - Gedeelde Inventory - 🗝️🔒]]
 
-[[❓ Onopgeloste vragen]]
 

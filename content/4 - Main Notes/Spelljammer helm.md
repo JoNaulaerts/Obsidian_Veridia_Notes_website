@@ -6,9 +6,10 @@ Status: #WIP
 Tags:
 - [[Spelljammer]]
 - [[🚧 Astral Sea]]
-- [[🚧 Aerar Raemas]]
+- [[Aerar Raemas]]
+- [[The foam crest]]
 
-gemaakt in [[🚧 The Forge of Wonders]] en gebonden aan de speer van [[🚧 Aerar Raemas]].
+gemaakt in [[🚧 The Forge of Wonders]] en gebonden aan de speer van [[Aerar Raemas]].
 Aerar zal uiteindelijk het ship moeten besturen.
 
 Enkel een magic caster kan de spelljammer helm besturen.

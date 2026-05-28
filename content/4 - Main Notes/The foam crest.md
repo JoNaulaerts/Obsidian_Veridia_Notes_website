@@ -12,4 +12,6 @@ The foam crest is het schip van de party.
 
 Op een schilderij in de collectie van [[Lady Vidorant]] zien we een afbeelding van een schip in de [[🚧 Astral Sea]].
 
-De foam crest is hoogstwaarschijnlijk een [[Spelljammer]]. Hoe we ons schip in de Astral Sea krijgen is nog een raadsel.
+In de foam crest is en verborgen ruimte, waarin een futuristische stoel staat. Wanneer Aernu gaat zitten en zijn speer ([[Spelljammer helm]]) gebruikt wordt hij een met het schip en kan hij het besturen. 
+
+Zal in de toekomst kunnen vliegen door middel van de [[Power Core]]

@@ -5,7 +5,7 @@ Status #WIP
 Tags:
 - [[Astaroth (The void shadow fiend)]]
 - [[Mr. Kirate kad ✝]]
-- [[🚧 Aernu Raemas ✝]] 
+- [[Aernu Raemas ✝]] 
 
 # Black vain
 

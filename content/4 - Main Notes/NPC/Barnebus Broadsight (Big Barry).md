@@ -4,7 +4,8 @@ Status: #Finished
 
 Tags:
 - [[NPC]]
-- [[Ximitrion]] 
+- [[Ximitrion]]
+- [[Taure Galu]]
 
 # Barnebus Broadsight (Big Barry)
 

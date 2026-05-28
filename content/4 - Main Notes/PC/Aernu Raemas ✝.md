@@ -1,12 +1,13 @@
-2025-05-13 08:56
+2025-05-16 20:31
 
 Status: #Just_Created 
-
+ 
 Tags:
 - [[PC]]
-- [[Astaroth (The void shadow fiend)]]
-- [[🚧 Aernu Raemas ✝]]
+- [[Aerar Raemas]]
 
-# Aerar Raemas
+# Aernu Raemas
+
+Tweelingbroer van [[Aerar Raemas]]
 
 🚧🏗️ Aan deze pagina wordt momenteel nog hard gewerkt 👷‍♂️🚧

@@ -10,4 +10,6 @@ Tags:
 
 # Ursula
 
-🚧🏗️ Aan deze pagina wordt momenteel nog hard gewerkt 👷‍♂️🚧
+Ursula is een informante van [[Enigma]].
+
+Ze werd hoofd van [[Taure Galu]], nadat [[Fiadh Emberroot]] deel van de party werd. 

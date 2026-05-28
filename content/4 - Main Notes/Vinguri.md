@@ -4,12 +4,12 @@ Status: #WIP
 
 Tags:
 - [[Astaroth (The void shadow fiend)]]
-- [[🚧 Aerar Raemas]]
+- [[Aerar Raemas]]
 - [[Barry Nightshade]]
 - [[Darion Shadowbane]]
 - [[🚧 Decklan]]
 - [[🚧 Malachai Darkthorn]]
-- [[🚧 Aerar Raemas]]
+- [[Aerar Raemas]]
 
 # Vinguri
 
@@ -20,7 +20,7 @@ ze rijden op pekzwart wyverns die met hun angel iemand [[Black vain]] kunnen bez
 De vinguri zijn uitgerust met zware harnassen en zien er superangstaanjagend uit. (Da's genne kattepis zelle mannekes.)
 
 Oude leden:
-- [[🚧 Aerar Raemas]] (aanvoerder)
+- [[Aerar Raemas]] (aanvoerder)
 - [[Darion Shadowbane]]
 - [[🚧 Decklan]]
 - [[Barry Nightshade]]

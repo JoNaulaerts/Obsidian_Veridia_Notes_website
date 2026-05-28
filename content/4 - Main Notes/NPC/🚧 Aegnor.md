@@ -4,9 +4,9 @@ Status: #WIP
 
 Tags:
 - [[NPC]]
-- [[🚧 Aernu Raemas ✝]]
-- [[🚧 Aerar Raemas]]
+- [[Aernu Raemas ✝]]
+- [[Aerar Raemas]]
 
 # Aegnor
 
-Vader van [[🚧 Aernu Raemas ✝]] [[🚧 Aerar Raemas]]
+Vader van [[Aernu Raemas ✝]] [[Aerar Raemas]]

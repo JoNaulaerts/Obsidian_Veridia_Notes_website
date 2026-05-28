@@ -4,7 +4,7 @@ Status: #Just_Created
 
 Tags:
 - [[NPC]]
-- [[🚧 Aerar Raemas]]
+- [[Aerar Raemas]]
 - [[Vinguri]]
 - [[🚧 Ano ✝]]
 

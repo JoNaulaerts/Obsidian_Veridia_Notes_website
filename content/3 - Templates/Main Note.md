@@ -1,10 +1,11 @@
 {{date}} {{time}}
-# {{Title}}
+
 
 Status: #Just_Created #WIP #Finished 
 
 Tags:
 - 
+# {{Title}}
 
 🚧🏗️ Aan deze pagina wordt momenteel nog hard gewerkt 👷‍♂️🚧
 

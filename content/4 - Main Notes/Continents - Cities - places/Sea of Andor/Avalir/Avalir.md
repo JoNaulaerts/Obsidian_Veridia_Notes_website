@@ -3,7 +3,7 @@
 Status: #WIP 
 
 Tags:
-- [[🚧 Sir Kaelor Varn]] 
+- [[Sir Kaelor Varn]] 
 
 # Avalir
 

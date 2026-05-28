@@ -15,7 +15,7 @@ Bloodstones zijn key stones voor planar binding. De oorsprong van de stenen ligt
 
 
 
-Divination [[🚧 Aernu Raemas ✝]] over de bloodstones:
+Divination [[Aernu Raemas ✝]] over de bloodstones:
 Waar zijn de Bloodstones het veiligst?
 "Een geheel is sterker dan een enkeling"
 

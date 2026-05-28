@@ -4,10 +4,10 @@ Status: #WIP
 
 Tags:
 - [[NPC]]
-- [[🚧 Aernu Raemas ✝]]
+- [[Aernu Raemas ✝]]
 
 # Charles
 
 Tressym
 
-Trouwe kompaan van [[🚧 Aernu Raemas ✝]]
+Trouwe kompaan van [[Aernu Raemas ✝]]

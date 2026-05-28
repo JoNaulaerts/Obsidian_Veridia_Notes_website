@@ -5,7 +5,7 @@ Status: #Just_Created
 Tags:
 - [[NPC]]
 - [[🚧 Steph ✝]]
-- [[🚧 Aerar Raemas]]
+- [[Aerar Raemas]]
 - [[Vinguri]]
 
 # Ano

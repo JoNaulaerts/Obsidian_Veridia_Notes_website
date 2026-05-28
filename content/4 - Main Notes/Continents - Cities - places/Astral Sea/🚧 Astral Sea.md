@@ -4,7 +4,8 @@ Status: #Just_Created
 
 Tags:
 - [[Regio's]]
+- [[Black vain]]
 
 # Astral Sea
 
-🚧🏗️ Aan deze pagina wordt momenteel nog hard gewerkt 👷‍♂️🚧
+"In de Astral sea gaat de tijd niet vooruit."

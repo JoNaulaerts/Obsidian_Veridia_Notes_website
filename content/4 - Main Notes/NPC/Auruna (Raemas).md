@@ -4,10 +4,10 @@ Status: #WIP
 
 Tags:
 - [[NPC]]
-- [[🚧 Aernu Raemas ✝]]
-- [[🚧 Aerar Raemas]]
+- [[Aernu Raemas ✝]]
+- [[Aerar Raemas]]
 - [[Champions of the Radiant Soul]]
 
 # Auruna (Raemas)
 
-moeder van  [[🚧 Aernu Raemas ✝]] en [[🚧 Aerar Raemas]]
+moeder van  [[Aernu Raemas ✝]] en [[Aerar Raemas]]

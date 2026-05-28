@@ -6,7 +6,7 @@ Tags:
 - [[Betrayer gods]]
 - [[Pantheon]]
 - [[🚧 The Blood Veil]]
-- [[🚧 Aerar Raemas]]
+- [[Aerar Raemas]]
 - [[The great intrusion]]
 
 # Astaroth (The void shadow fiend)
@@ -19,4 +19,4 @@ Zijn trouwe volgelingen groeperen zich in [[🚧 The Blood Veil]]. Daaronder val
 - [[Rosha]]
 - ...
 
-Astaroth is ook de voormalige patron van [[🚧 Aerar Raemas]].
+Astaroth is ook de voormalige patron van [[Aerar Raemas]].

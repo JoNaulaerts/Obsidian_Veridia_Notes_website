@@ -6,8 +6,8 @@ Tags:
 - [[NPC]]
 - [[The great intrusion]]
 - [[Avalir]]
-- [[🚧 Sir Kaelor Varn]]
+- [[Sir Kaelor Varn]]
 
 # Sir Vaeris
 
-Leermeester van [[🚧 Sir Kaelor Varn]]
+Leermeester van [[Sir Kaelor Varn]]
